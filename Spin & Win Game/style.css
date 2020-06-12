@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    background-color: #414141;
+    color: #bada55;
+}
+
+canvas {
+    width: 100%;
+    max-width: 800px;
+    max-height: 700px;
+}
