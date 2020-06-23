@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## JavaScript Games
 
-You can use the [editor on GitHub](https://github.com/Akshay2996/JavaScript-Games/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+🎮 Some games are made using pure Javascript & some with the help of [`Phaser.io`](https://phaser.io/) framework that helps creating 2-D games in Web Browsers as well as Mobile games.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Games can be made using only JavaScripts and It can improve your Basics of JavaScript while building a game.
 
-### Markdown
+It's fun to create a game while learning some concepts in JavaScript.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### **FrameWork**
 
-```markdown
-Syntax highlighted code block
+[`Phaser.io`](https://phaser.io/) in [Spin N Win](https://github.com/Akshay2996/JavaScript-Games/tree/master/Spin%20%26%20Win%20Game)
 
-# Header 1
-## Header 2
-### Header 3
+<hr />
 
-- Bulleted
-- List
+## Table of Contents
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Akshay2996/JavaScript-Games/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| Index | Name                           | Source Code                    | See Live     |
+|-------|--------------------------------|--------------------------------|----------|
+| 1     | [Virus Fighter](https://akshay2996.github.io/JavaScript-Games/Virus%20Fighter%20Game/) | [Code](https://github.com/Akshay2996/JavaScript-Games/blob/master/Virus%20Fighter%20Game/game.js)      | [Live](https://akshay2996.github.io/JavaScript-Games/Virus%20Fighter%20Game/) |
+| 2     | [Spin & Win](https://akshay2996.github.io/JavaScript-Games/Spin%20&%20Win%20Game/)      | [Code](https://github.com/Akshay2996/JavaScript-Games/blob/master/Spin%20%26%20Win%20Game/game.js) | [Live](https://akshay2996.github.io/JavaScript-Games/Spin%20&%20Win%20Game/) |
