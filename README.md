@@ -8,7 +8,7 @@ It's fun to create a game while learning some concepts in JavaScript.
 
 ### **FrameWork**
 
-[`Phaser.io`](https://phaser.io/) in [Spin N Win](https://github.com/Akshay2996/JavaScript-Games/tree/master/Spin%20%26%20Win%20Game)
+[`Phaser.io`](https://phaser.io/) in [Spin & Win](https://github.com/Akshay2996/JavaScript-Games/tree/master/Spin%20%26%20Win%20Game)
 
 <hr />
 
